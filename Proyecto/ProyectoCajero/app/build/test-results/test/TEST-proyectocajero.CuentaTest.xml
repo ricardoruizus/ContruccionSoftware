@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="proyectocajero.CuentaTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-12-03T05:18:57" hostname="DESKTOP-KKEIPKO" time="0.097">
+  <properties/>
+  <testcase name="depositarMontoInvalidoTest()" classname="proyectocajero.CuentaTest" time="0.097"/>
+  <system-out><![CDATA[Monto de deposito invalido o insuficiente
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
